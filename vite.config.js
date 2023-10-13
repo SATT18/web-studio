@@ -3,6 +3,7 @@ export default {
   build: {
     outDir: '../dist',
   },
+  base: '/web-studio',
   publicDir: './assets',
   server: {
     port: 8080,
